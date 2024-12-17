@@ -1,0 +1,111 @@
+{
+    "server_informations": {
+        "Method": "manual",
+        "expires": 24,
+        "agenttype": "server",
+        "power": 0,
+        "rdp": 1,
+        "ping": 1,
+        "goarch": "amd64",
+        "fileName": "trmm-cgm-server1-server-amd64.exe",
+        "exeFileName": "tacticalagent-v2.8.0-windows-amd64.exe"
+    },
+    "paths": {
+        "cert_filename": "CGMRootCertificationAuthority.crt",
+        "installer_url": "https://api.tacticalrmm.ais.cgm.ag/agents/installer/",
+        "mesh_url": "https://mesh.tacticalrmm.ais.cgm.ag/meshagents?id=4&meshid=HiK@tYRJn1xY158SoopOT8uvf5m28nwG9pVttJH4mZPHRSM5GaM5K0DR0fXJjOmf&installflags=0",
+        "api_key": "JYGUJTYQ5UNEDASFETBXTQQHPTF1EEYR",
+        "icon_path": "DevOpsIcon.png",
+        "image_path": "DevOpsBild.png",
+        "api_url": "https://api.tacticalrmm.ais.cgm.ag"
+    },
+    "options": {
+        "Albis": 3,
+        "Assist/Central": 4,
+        "DATAVITAL": 5,
+        "DevOps": 6,
+        "EOS": 7,
+        "Medistar": 8,
+        "Turbomed": 9,
+        "ProductManagement": 10,
+        "Health&Safety Management": 11,
+        "Testcenter": 12,
+        "ProductExcellence&Communic": 13,
+        "Life": 14,
+        "Cashbook": 15
+    },
+    "DevOps_section": {
+        "CGM.NB.ProductUnitAISDE.devopseng.images": 25,
+        "CGM.NB.ProductHouseAISDE.devopseng.kubernetes": 26,
+        "CGM.NB.ProductUnitAISDE.devopseng.licenses": 27,
+        "CGM.NB.ProductUnitAISDE.devopseng.playground": 28,
+        "CGM.NB.ProductUnitAISDE.devopseng.prod.jenkins": 29,
+        "CGM.NB.ProductUnitAISDE.devopseng.test": 30,
+        "CGM.NB.ProductUnitAISDE.devopseng.tooling": 31,
+        "CGM.DE01.ProductUnitAISDE.devopseng.prod.updates": 32,
+        "CGM.NB.ProductUnitAISDE.devops.support": 33
+    },
+    "Albis_section": {
+        "CGM.NB.BUALBIS.devservices": 3,
+        "CGM.NB.BUALBIS.CGM.DE.Albis": 4
+    },
+    "AssistCentral_section": {
+        "CGM.NB.CSDEVPISDACHG3.qa": 5,
+        "CGM.NB.CSDEVPISDACHG3.devops.cgm.ag": 6,
+        "CGM.DE01.CSDEVPISDACHG3.esoul_demo\t": 7,
+        "CGM.NB.CSDEVPISDACHG2.swd": 8,
+        "CGM.NB.CSDEVPISDACHG2.build": 9,
+        "CGM.NB.CSDEVPISDACHG2.qa.documents.cgm.ag": 10,
+        "CGM.NB.CSDEVPISDACHG2.support.documents.cgm.ag": 11,
+        "CGM.DE01.CSDEVPISDACHG2.documents_customerdemo": 12,
+        "CGM.NB.CSPAPISDACH.cgm.nb.cspa.pmza.pmo.cdp": 13,
+        "CGM.NB.CSPAPISDACH.cgmdocuments-pa": 14
+    },
+    "Datavital_section": {
+        "CGM.NB.BUM1-DATAVITAL.m1.dev": 15,
+        "CGM.NB.BUM1-DATAVITAL.dv.dev": 16,
+        "CGM.NB.BUM1-DATAVITAL.cgm.m1.dev": 17,
+        "CGM.NB.BUM1-DATAVITAL.dv.qa": 18,
+        "CGM.NB.BUM1-DATAVITAL.m1.qa": 19,
+        "CGM.DE01.BUM1-DATAVITAL.cgm.m1-dv.hosting": 20,
+        "CGM.DE01.BUM1-DATAVITAL.cgmm1cloud": 21,
+        "CGM.DE01.BUM1-DATAVITAL.cgmm1cloud_test-labor": 22,
+        "CGM.NB.BUM1-DATAVITAL.m1_qa_testumgebung": 23,
+        "CGM.NB.BUM1-DATAVITAL.vsp_demo": 24
+    },
+    "Eos_section": {
+        "CGM.DE01.BUEOS.evpn_host": 34
+    },
+    "Medistar_section": {
+        "CGM.NB.BUMEDISTAR.accounting": 35,
+        "CGM.NB.BUMEDISTAR.devops2.cgm.medistar.de": 36,
+        "CGM.NB.BUMEDISTAR.ew": 37,
+        "CGM.NB.BUMEDISTAR.qa2": 38,
+        "CGM.NB.BUMEDISTAR.cgm.nb.bumedistar.pm": 39
+    },
+    "Turbomed_section": {
+        "CGM.NB.BUTURBOMED.turbomed.build": 40,
+        "CGM.NB.BUTURBOMED.turbomed.development": 41,
+        "CGM.NB.BUTURBOMED.turbomed.support": 42,
+        "CGM.NB.BUTURBOMED.turbomed.prod": 43,
+        "CGM.DE01.BUTURBOMED.tmdevop": 44
+    },
+    "ProductManagement_section": {
+        "CGM.NB.ProductManagementAISDE.puaisextensionsysboundary": 45
+    },
+    "HealthSafetyManagement_section": {
+        "CGM.NB.BUHealth&SafetyManagement.cgm.nb.hsm.dev": 46
+    },
+    "Testcenter_section": {
+        "CGM.NB.ProductUnitAISDE.cgm.nb.aistestcenter": 47
+    },
+    "ProductExcellence_section": {
+        "CGM.NB.ProductExcellence&Communic.cgm.nb.testautomationais": 48
+    },
+    "Life_section": {
+        "CGM.NB.BULIFEVerticals&BigProjects.ConnectivityServices.Base": 49
+    },
+    "Cashbook_section": {
+        "CGM.NB.ProductHouseAISDE.cashbook.development": 50
+    }
+}
